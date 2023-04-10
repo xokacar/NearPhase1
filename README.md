@@ -7,5 +7,3 @@
 
 ![transaction_screenshot_kharj](https://user-images.githubusercontent.com/44809357/167967780-6f7ffe5c-511f-4826-a4d6-7278cacaf62e.png)
 
-
-learned at https://patika.dev
